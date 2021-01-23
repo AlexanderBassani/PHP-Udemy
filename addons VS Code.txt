@@ -1,0 +1,13 @@
+Code Runner
+Dracula Official
+Material Icon Theme
+Rainbow Brackets
+Color Manager
+
+HTML Snippets
+JavaScript (ES6) code snippets
+PHP IntelliSense
+IntelliSense for CSS class names in HTML
+HTML Boilerplate
+CSS Peek
+
