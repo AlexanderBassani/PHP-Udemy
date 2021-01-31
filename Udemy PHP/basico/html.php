@@ -1,4 +1,4 @@
-<div class="titulo"> Integração HTML</div>
+<div class="titulo">Integração HTML</div>
 
 <h1>
 <?php

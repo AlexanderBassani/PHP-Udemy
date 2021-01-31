@@ -6,9 +6,13 @@ body{
     height: 100vh;
     margin: 0px;
     display: grid;
-    grid-template-rows: 90px 1fr 40px ;
+    grid-template-rows: 110px 1fr 50px ;
     grid-template-columns: 1fr;
-    grid-template-areas: "cabecalho" "principal" "rodape";
+    grid-template-areas: 
+    "cabecalho"
+    "principal"
+    "rodape"
+    ; 
 }
 
 .cabecalho{
@@ -36,7 +40,7 @@ body{
 
 .principal{
     grid-area: principal;
-    height: calc(100vh - 130px);
+    height: calc(100vh - 160px);
     background-color: #f0f0f0;
     padding: 20px;
 }
@@ -49,6 +53,8 @@ body{
     font-size: 1.2 rem;
     padding-right: 20px;
     color: #444;
+    /* position: sticky;
+    bottom: 0; */
 }
 
 .conteudo{
