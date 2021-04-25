@@ -98,14 +98,17 @@ body{
     font-size: 1.1rem;
     cursor: pointer;
 }
+
 .modulo > ul > li:hover{
     background-color: #eee;
 }
+
 .modulo > ul > li > a{
     display: flex;
     text-decoration: none;
     color: #222;
 }
+
 .modulo.verde{ border: 2px solid #4caf50;}
 .modulo.verde > h3{ background-color: #4caf50;}
 

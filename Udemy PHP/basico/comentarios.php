@@ -6,7 +6,7 @@
     #echo "Estou no PHP"
     #echo //"Estou no PHP"
     //echo #"Estou no PHP"
-?>
+#?>
 
 <p>Depois do primeiro bloco!</p>
 <!-- 
@@ -20,7 +20,7 @@
     Linha 1 do comentário
     Linha 3 do comentário
     Linha 2 do comentário
-*/
+?> */
 ?>
 
 <p>Depois do primeiro bloco!</p>

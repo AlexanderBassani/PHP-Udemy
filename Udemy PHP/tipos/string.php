@@ -21,9 +21,11 @@ print "<br> Também existe a função print";
 
 echo '<br>' . strtoupper('maximizado');
 echo '<br>' . strtolower('MINIMIZADO');
-echo '<br>' . ucfirst('só a primeira letra');
-echo '<br>' . ucwords('todas as palavras');
-echo '<br>' . strlen('quantas letras');
+echo '<br>' . ucfirst('só a primeira letra');// primeira letra da primeira palavra em uppercase
+echo '<br>' . ucwords('todas as palavras'); // primeira letra das palavras em uppercase
+echo '<br>' . strlen('quantas letras'); 
 echo '<br>' . mb_strlen('eu também', "utf-8");
 echo '<br>' . substr('só uma parte mesmo',7,6);
+echo '<br>' . substr('só uma parte mesmo',7);
 echo '<br>' . str_replace('isso','aquilo','trocar isso');
+echo '<br>' . str_replace('isso','aquilo','trocar isso isso');

@@ -36,17 +36,20 @@
                         <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência PHP</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=string">Tipo String PHP</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String PHP</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=boolean">Tipo Boolean PHP</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=conversoes">Conversões PHP</a></li>
+                    </ul>
+                </div>
+                
+                <div class="modulo azul">
+                    <h3>Variáveis</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=variaveis&file=basico">Básico PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições PHP</a></li>
                     </ul>
                 </div>
                 <!--
-                <div class="modulo azul">
-                    <h3>Módulo 03</h3>
-                    <ul>
-                        <li><a href="#">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
-                    </ul>
-                </div>
                 <div class="modulo roxo">
                     <h3>Módulo 04</h3>
                     <ul>
