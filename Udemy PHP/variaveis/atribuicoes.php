@@ -38,7 +38,7 @@ echo '<br>' . $texto;
 $texto .= ' de verdade';
 echo '<br>' . $texto;
 
-$variavelInexistente = 'varlor existente'
+$variavelInexistente = 'varlor existente';
 echo '<br>' . $variavelInexistente;
-$valor = $variavelInexistente ?? 'valor default'
+$valor = $variavelInexistente ?? 'valor default';
 echo '<br>' . $variavelInexistente;

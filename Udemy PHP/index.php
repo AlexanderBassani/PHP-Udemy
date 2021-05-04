@@ -47,6 +47,11 @@
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Básico PHP</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação PHP</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=atribuicoes">Atribuições PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=interpolacao">Interpolação PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variável Variável PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis_variaveis">Desafio Variáveis Variáveis PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor de Referência PHP</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes PHP</a></li>
                     </ul>
                 </div>
                 <!--
