@@ -17,7 +17,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Básicos</h3>
+                    <h3>1. Básicos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=basico&file=ola">Olá PHP</a></li>
                         <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
@@ -28,7 +28,7 @@
                 </div>
                 
                 <div class="modulo vermelho">
-                    <h3>Tipos</h3>
+                    <h3>2. Tipos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo Inteiro PHP</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float PHP</a></li>
@@ -42,7 +42,7 @@
                 </div>
                 
                 <div class="modulo azul">
-                    <h3>Variáveis</h3>
+                    <h3>3. Variáveis</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=variaveis&file=basico">Básico PHP</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_equacao">Desafio Equação PHP</a></li>
@@ -54,15 +54,15 @@
                         <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes PHP</a></li>
                     </ul>
                 </div>
-                <!--
                 <div class="modulo roxo">
-                    <h3>Módulo 04</h3>
+                    <h3>Controle</h3>
                     <ul>
-                        <li><a href="#">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=if_else">If Else PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio Pi PHP</a></li>
                     </ul>
                 </div>
+                <!--
                 <div class="modulo laranja">
                     <h3>Módulo 05</h3>
                     <ul>
