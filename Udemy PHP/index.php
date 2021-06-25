@@ -60,6 +60,8 @@
                         <li><a href="exercicio.php?dir=controle&file=if_else">If Else PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio Pi PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores Lógicos PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Operadores Lógicos PHP</a></li>
                     </ul>
                 </div>
                 <!--
