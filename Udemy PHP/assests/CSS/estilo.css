@@ -143,3 +143,19 @@ p.divisao{
 hr{
     margin: 0;
 }
+
+::-webkit-scrollbar {
+    width: 1.2em;
+    background-color: #EAEEF3;
+}
+::-webkit-scrollbar-track {
+    /* background-color: #94999e71; */
+}
+::-webkit-scrollbar-thumb {
+  background-color: #94999E;
+  border-radius: 10px;
+  border: 0.22em solid #EAEEF3;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color: #94999ec4;
+}

@@ -64,6 +64,8 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio Operadores Lógicos PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operadores Ternário PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=switch">Switch PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch PHP</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_2">Desafio Switch 2 PHP</a></li>
                     </ul>
                 </div>
                 <!--
