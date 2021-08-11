@@ -55,7 +55,7 @@
                     </ul>
                 </div>
                 <div class="modulo roxo">
-                    <h3>Controle</h3>
+                    <h3>4. Controle</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">If Else PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores Relacionais PHP</a></li>
@@ -68,15 +68,13 @@
                         <li><a href="exercicio.php?dir=controle&file=desafio_switch_2">Desafio Switch 2 PHP</a></li>
                     </ul>
                 </div>
-                <!--
                 <div class="modulo laranja">
-                    <h3>Módulo 05</h3>
+                    <h3>5. Array</h3>
                     <ul>
-                        <li><a href="#">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
                     </ul>
                 </div>
+                <!--
                 <div class="modulo verde-escuro">
                     <h3>Módulo 06</h3>
                     <ul>
