@@ -47,6 +47,7 @@ if(isset($_POST['t1']) && isset($_POST['t2'])){
         $tv = "50'";
         $sorvete = true;
     }
+    
     if($t1 != $t2){
         $tv = "32'";
         $sorvete = true;

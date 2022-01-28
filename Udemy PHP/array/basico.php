@@ -19,4 +19,8 @@ echo '<br>' . $texto[2];
 echo '<br>' . $texto[10];
 echo '<br>' . $texto[11];//cuidado
 echo '<br>' . mb_substr($texto, 10, 1);
+echo '<br>' . mb_substr($texto, 10, 2);
+echo '<br>' . mb_substr($texto, 10, 3);
+echo '<br>' . mb_substr($texto, 10, 4);
+echo '<br>' . mb_substr($texto, 10, 5);
 

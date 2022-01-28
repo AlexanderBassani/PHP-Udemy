@@ -65,13 +65,22 @@
                         <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operadores Ternário PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=switch">Switch PHP</a></li>
                         <li><a href="exercicio.php?dir=controle&file=desafio_switch">Desafio Switch PHP</a></li>
-                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_2">Desafio Switch 2 PHP</a></li>
                     </ul>
                 </div>
                 <div class="modulo laranja">
                     <h3>5. Array</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=array&file=basico">Array</a></li>
+                        <li><a href="exercicio.php?dir=array&file=mapa">Mapas</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_indice">Desafio Índice</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_meses">Desafio Meses</a></li>
+                        <li><a href="exercicio.php?dir=array&file=operacoes">Operações</a></li>
+                        <li><a href="exercicio.php?dir=array&file=desafio_sorteio">Desafio Sorteio</a></li>
+                        <li><a href="exercicio.php?dir=array&file=multi">Array Multidimensionais</a></li>
+                        <li><a href="exercicio.php?dir=array&file=constantes">Arrays Constates</a></li>
+                        <li><a href="exercicio.php?dir=array&file=get">$_GET</a></li>
+                        <li><a href="exercicio.php?dir=array&file=post">$_POST</a></li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Compração Arrays</a></li>
                     </ul>
                 </div>
                 <!--
