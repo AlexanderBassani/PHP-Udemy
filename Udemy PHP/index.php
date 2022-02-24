@@ -83,23 +83,37 @@
                         <li><a href="exercicio.php?dir=array&file=comparacao">Compração Arrays</a></li>
                     </ul>
                 </div>
-                <!--
                 <div class="modulo verde-escuro">
                     <h3>Módulo 06</h3>
                     <ul>
-                        <li><a href="#">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=for">Laço For</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_for">Desafio For</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=foreach">Laço Foreach</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=break_continue">Break e Continue</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_impressao">Desafio Impressão</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=do_while">While/Do While</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela">Desafio Tabela</a></li>
+                        <li><a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">Desafio Tabela 2</a></li>
                     </ul>
                 </div>
                 <div class="modulo vermelho-escuro">
                     <h3>Módulo 07</h3>
                     <ul>
-                        <li><a href="#">Exercicio A</a></li>
-                        <li><a href="#">Exercicio B</a></li>
-                        <li><a href="#">Exercicio C</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_retorno">Args e Retorno</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio Palíndromo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_variaveis">Argumentos Variáveis</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=args_padrao">Argumentos Padrão</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=usando_tipos">Usando Tipos</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=anonimas">Função Anônima</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=clousure_collable">Clousure e Collable</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=recursividade">Recursividade</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=desafio_recursivo">Desafio Busca Recursiva</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=retornando_funcao">Retornando Função</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map e Filter</a></li>
                     </ul>
                 </div>
+                <!--
                 <div class="modulo azul-escuro">
                     <h3>Módulo 08</h3>
                     <ul>
